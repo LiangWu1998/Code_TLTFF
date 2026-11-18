@@ -1,4 +1,4 @@
-# TLTFF
+# Transform-Driven Low-Rank Tensor Functional Factorization for Multidimensional Data Recovery (TLTFF)
 
 This repository contains the code for the manuscript **Transform-Driven Low-Rank Tensor Functional Factorization for Multidimensional Data Recovery**.
 
